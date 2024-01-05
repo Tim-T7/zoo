@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TranTimmy
+comment0.text=\n\ A\ BoopleSnoot\ is\ Mr.\ Jaffe's\ animal\n\ \n\ @author\ Mr.\ Jaffe\n\ @version\ 1.0\ 2017-07-14\n
+comment1.params=
+comment1.target=TranTimmy()
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=
+comment3.target=java.lang.String\ speak()
+comment4.params=
+comment4.target=java.lang.String\ getDisposition()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
